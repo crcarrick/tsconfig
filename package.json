@@ -1,0 +1,22 @@
+{
+  "name": "@crcarrick/tsconfig",
+  "version": "1.0.0",
+  "description": "A typescript config",
+  "repository": "https://github.com/crcarrick/tsconfig.git",
+  "author": {
+    "name": "Chris Carrick",
+    "email": "chris@crcarrick.dev"
+  },
+  "keywords": [
+    "ts",
+    "tsconfig",
+    "typescript"
+  ],
+  "main": "tsconfig.json",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
